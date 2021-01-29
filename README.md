@@ -6,7 +6,6 @@ I'm an electronic engineer passionate about developing software. My strength is 
 jpvelezr1996@hotmail.com
 
 ## Skills:
-</br>
 
 ### Languages:
 JavaScript,
@@ -14,8 +13,6 @@ HTML,
 CSS,
 Java,
 MatLab
-
-</br>
 
 ### Frameworks:
 Ionic,
