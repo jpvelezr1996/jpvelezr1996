@@ -5,7 +5,23 @@ I'm an electronic engineer passionate about developing software. My strength is 
 📫 EMAIL:
 jpvelezr1996@hotmail.com
 
-## MY PROYECTS DEVELOPED
+## Skills:
+</br>
+
+### Languages:
+JavaScript,
+HTML,
+CSS,
+Java,
+MatLab
+
+</br>
+
+### Frameworks:
+Ionic,
+Angular
+
+## My Proyects Developed
 
 ### Ionic:
 
