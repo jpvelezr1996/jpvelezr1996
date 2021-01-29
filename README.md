@@ -1,20 +1,12 @@
-### Hi there 👋
+# Hello, my name is Juan Pablo Vélez
 
-#### Mis proyectos
+I'm an electronic engineer passionate about developing software. My strength is the development of applications in Ionic, but I'm constantly expanding into new fields of knowledgement
+
+📫 EMAIL:
+jpvelezr1996@hotmail.com
+
+## MY PROYECTS DEVELOPED
+
+### Ionic:
 
 [moviesApp](https://github.com/jpvelezr1996/moviesApp)
-
-<!--
-**jpvelezr1996/jpvelezr1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
